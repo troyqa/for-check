@@ -82,6 +82,7 @@
   color: #fff;
   outline: transparent;
   box-shadow: 0 0 5px 1px #fff;
+  transition: box-shadow 0.3s;
 }
 
 .text--active {
